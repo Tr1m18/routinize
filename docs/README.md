@@ -34,8 +34,8 @@ A mental fitness habit-loop app inspired by *behavioural psychology principles*.
 ## 📍 Roadmap
 
 ### Week 1: Foundations
-- [ ] Create GitHub repo and project structure
-- [ ] Choose tech stack and tools
+- [ x] Create GitHub repo and project structure
+- [ x] Choose tech stack and tools
 - [ ] Design basic Supabase schema
 - [ ] Draft habit loop flow in journal / wireframe
 
