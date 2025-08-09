@@ -1,7 +1,7 @@
 # Routinize
 A mental fitness habit-loop app inspired by *behavioural psychology principles*. It helps users build sustainable routines by tracking cue → routine → reward loops, reinforcing identity-based goals, and providing reflective feedback.
 
-[The Vision](docs/vision.md)
+[The Vision](vision.md)
 
 ## 🌟 Features (Planned MVP)
 - Habit tracking
