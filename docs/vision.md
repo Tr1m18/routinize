@@ -73,10 +73,10 @@ Many apps fall short here. Routinize can stand out by being well-crafted and wel
 
 Down the line, these could add real innovation:
 
-- 🎙️ **Voice-based journaling** (Expo Speech API)
-- 🤖 **Cue category suggestion** (basic NLP)
-- 📤 **Export to Markdown/Notion**
-- 📈 **Identity progress graph** (frequency of value-aligned actions)
+- **Image/Video & Audio journaling** (Expo Speech API)
+- **Cue category suggestion** (basic NLP)
+- **Identity progress graph** (frequency of value-aligned actions)
+- **Identity archetypes** with their own custom habits (e.g. 'runner', 'calm minded', 'strong') with progress bars to increase identity association through repeated activity
 
 ---
 
