@@ -33,25 +33,25 @@ A mental fitness habit-loop app inspired by *behavioural psychology principles*.
 
 ## 📍 Roadmap
 
-### Week 1: Foundations
+### Phase 1: Foundations
 - [x] Create GitHub repo and project structure
 - [x] Choose tech stack and tools
 - [ ] Design basic Supabase schema
 - [ ] Draft habit loop flow in journal / wireframe
 
-### Week 2: Core Habit Loop (MVP UI)
+### Phase 2: Core Habit Loop (MVP UI)
 - [ ] Build screens: Home, Add Habit, Journal
 - [ ] Implement Zustand for local state
 - [ ] Connect frontend to mock data
 - [ ] Add navigation between screens
 
-### Week 3: Auth & Backend Integration
+### Phase 3: Auth & Backend Integration
 - [ ] Set up Supabase Auth (email + optional OAuth)
 - [ ] Connect frontend to Supabase DB
 - [ ] Save habit loop entries to DB
 - [ ] Implement basic user-specific data loading
 
-### Week 4: Journaling, Streaks & Polish
+### Phase 4: Journaling, Streaks & Polish
 - [ ] Create journaling screen + text input
 - [ ] Add daily check-in + streak logic
 - [ ] Polish UI & animations
