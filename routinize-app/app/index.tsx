@@ -1,4 +1,5 @@
 import { View, Text } from "react-native";
+import { useHabits } from "../store/useHabits";
 import { Link } from "expo-router";
 
 export default function Home() {
