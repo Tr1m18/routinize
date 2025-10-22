@@ -25,12 +25,6 @@ A mental fitness habit-loop app inspired by *behavioural psychology principles*.
   - REST & GraphQL APIs
   - Realtime support
 
-### 📦 Dev Tools
-- **Expo CLI** – Easy mobile dev workflow
-- **Prettier + ESLint** – Code formatting and linting
-- **dotenv** – Secure environment variable management
-- **Jest** – Unit testing framework (optional at MVP)
-
 ## 📍 Roadmap
 
 ### Phase 1: Foundations
@@ -40,10 +34,10 @@ A mental fitness habit-loop app inspired by *behavioural psychology principles*.
 - [ ] Draft habit loop flow in journal / wireframe
 
 ### Phase 2: Core Habit Loop (MVP UI)
-- [ ] Build screens: Home, Add Habit, Journal
-- [ ] Implement Zustand for local state
-- [ ] Connect frontend to mock data
-- [ ] Add navigation between screens
+- [x] Build screens: Home, Add Habit, Journal
+- [x] Implement Zustand for local state
+- [x] Connect frontend to mock data
+- [x] Add navigation between screens
 
 ### Phase 3: Auth & Backend Integration
 - [ ] Set up Supabase Auth (email + optional OAuth)
